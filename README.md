@@ -1,23 +1,3 @@
+This is a binder file for learning how to model neurons and networks using BRIAN2. It was made for BIOL 554 in Spring 2025 at UNC-CH. 
 
-
-
-
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/lincolnfrias/binder/master)
-
-Webapps construídos com ipywidgets e executados com mybinder.
-
-
-
-anotações minhas:
-
-trocar atlas por algo menor (ou já é muito pequeno? 3mb)
-
-usar environment ou requirements?
-
-environment.yml
-channels:
-  - conda-forge
-  - defaults
-dependencies:
-  - pandas
-  - ipywidgets
+This readme is sparse because I'm really just sending the binder link to students. Apologies if you're reading this looking for an intro.
