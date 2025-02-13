@@ -1,1 +1,2 @@
 brian2==2.8.0.4
+matplotlib==3.10.0
